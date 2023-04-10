@@ -1,0 +1,97 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background: white;
+    display: flex;
+    justify-content: center;
+}
+
+.nav{
+    position: absolute;
+    width: 100%;
+    height: 10%;
+    background: black;
+    color: orange;
+    padding-left: 10px;
+}
+
+.nav-links{
+    position: relative;
+    text-decoration: none;
+    font-size: 25px;
+    color: orange;
+    top: 15px;
+    transition: all 300ms;
+}
+
+.nav-links:hover{
+    text-shadow: 0px 0px 10px white;
+}
+
+#profile{
+    text-decoration: underline white;
+}
+
+#photos{
+    left: 5%;
+}
+
+#videos{
+    left: 10%;
+}
+
+#music{
+    left: 15%;
+}
+
+#documents{
+    left: 20%;
+}
+
+#apps{
+    left: 25%;
+}
+
+.prof-pic-cont{
+    position: absolute;
+    display:flex;
+    width: 250px;
+    height: 250px;
+    top: 20%;
+    justify-content: center;
+    padding-top: 22px;
+    background: #303030;
+    border-radius: 50%;
+    border: 3px solid orange;
+}
+
+img.pro{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3px groove orange;
+    outline: 5px double white;
+    outline-offset: 10px;
+}
+
+.username{
+    position: absolute;
+    top: 60%;
+}
+
+.info{
+    position: absolute;
+    top: 70%;
+    display: flex;
+    font-size: 30px;
+}
+
+.counts{
+    color: orange;
+}
