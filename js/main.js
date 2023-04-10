@@ -12,7 +12,7 @@ var u1 = [
     '+233 572647683',
     'robertsimpson678@gmail.com',
     'simpson2005',
-    'accounts/Robert Simpson/index.html'
+    'Robert Simpson/index.html'
 ]
 
 var u2 = [
@@ -20,7 +20,7 @@ var u2 = [
     '+233 208741786',
     'kingsleyq174@gmail.com',
     '#K-slay',
-    'accounts/Kingsley Quartey/index.html'
+    'Kingsley Quartey/index.html'
 ]
 
 var u3 = [
@@ -28,7 +28,7 @@ var u3 = [
     'Unknown',
     'dukeacquah95@gmail.com',
     '4Yooo',
-    'accounts/Acquah-Thompson/index.html'
+    'Acquah-Thompson/index.html'
 ]
 
 var u4 = [
@@ -36,7 +36,7 @@ var u4 = [
     '+233 557696386',
     'kingclert4@gmail.com',
     'kingclert1212',
-    'accounts/King Clert/index.html'
+    'King Clert/index.html'
 ]
 
 var u5 = [
@@ -44,7 +44,7 @@ var u5 = [
     '+233 597805736',
     'pagyei255@gmail.com',
     'Pagyei255',
-    'accounts/Agyei Paul/index.html'
+    'Agyei Paul/index.html'
 ]
 
 var u6 = [
@@ -52,7 +52,7 @@ var u6 = [
     '+233 557705573',
     'konoteybenjamin956@gmail.com',
     'Mavben.1290',
-    'accounts/Benjamin Konotey/index.html'
+    'Benjamin Konotey/index.html'
 ]
 
 var u7 = [
@@ -60,7 +60,7 @@ var u7 = [
     '+233 594618911',
     'abeikujonah138@gmail.com',
     'Santana1234',
-    'accounts/Abeiku Jonah/index.html'
+    'Abeiku Jonah/index.html'
 ]
 
 var u8 = [
@@ -68,7 +68,7 @@ var u8 = [
     '+233 272226354',
     'adiscoboy111@gmail.com',
     '2Way0',
-    'accounts/Mickey-Spirit/index.html'
+    'Mickey-Spirit/index.html'
 ]
 
 var u9 = [
@@ -76,7 +76,7 @@ var u9 = [
     '+233 556751367',
     'kwekujones201@gmail.com',
     'Emmafadzi60',
-    'accounts/Jones Deku/index.html'
+    'Jones Deku/index.html'
 ]
 
 var u10 = [
@@ -84,7 +84,7 @@ var u10 = [
     '+233 593855003',
     'kpaa051@gmail.com',
     'Killervi@',
-    'accounts/Kwesi Biney/index.html'
+    'Kwesi Biney/index.html'
 ]
 
 var u11 = [
@@ -92,7 +92,7 @@ var u11 = [
     '+233 591844126',
     'jc999@gmail.com',
     'Password000',
-    'accounts/Junior Chichiz/index.html'
+    'Junior Chichiz/index.html'
 ]
 
 var u12 = [
@@ -100,7 +100,7 @@ var u12 = [
     '+233 599424642',
     'juniorloud@gmail.com',
     '[loud@12345678910]',
-    'accounts/Akwasi Essilfie/index.html'
+    'Akwasi Essilfie/index.html'
 ]
 
 var u13 = [
@@ -108,7 +108,7 @@ var u13 = [
     '+233 267838208',
     'samuelsassah24@gmail.com',
     '$Toyboot7v',
-    'accounts/Emmanuel Quansah/index.html'
+    'Emmanuel Quansah/index.html'
 ]
 
 var u14 = [
@@ -116,7 +116,7 @@ var u14 = [
     '+233 594229300',
     'f-email',
     'Eshun77.',
-    'accounts/El Nino/index.html'
+    'El Nino/index.html'
 ]
 
 var u15 = [
@@ -124,7 +124,7 @@ var u15 = [
     '+233 557221516',
     'amuzumuel@gmail.com',
     'passcode123',
-    'accounts/Agbeko Emmanuel/index.html'
+    'Agbeko Emmanuel/index.html'
 ]
 
 var u16 = [
@@ -132,7 +132,7 @@ var u16 = [
     '+233 279713577',
     'eshunfestus700@gmail.com',
     'QWERTYqwerty123456',
-    'accounts/Festus Eshun/index.html'
+    'Festus Eshun/index.html'
 ]
 
 var u17 = [
@@ -140,7 +140,7 @@ var u17 = [
     '+233 593431724',
     'f-email',
     'adc123$$$',
-    'accounts/Idun Wilson/index.html'
+    'Idun Wilson/index.html'
 ]
 
 var u18 = [
@@ -148,7 +148,7 @@ var u18 = [
     '+233 547714953',
     'agbozovictor73@gmail.com',
     '*imadeu24me*',
-    'accounts/Victor Agbozo/index.html'
+    'Victor Agbozo/index.html'
 ]
 
 var u19 = [
@@ -156,7 +156,7 @@ var u19 = [
     '+233 575764621',
     'f-email',
     '*ADF*',
-    'accounts/David Appiah/index.html'
+    'David Appiah/index.html'
 ]
 
 var u20 = [
@@ -164,7 +164,7 @@ var u20 = [
     '+233 233447995',
     'f-email',
     'sed2008',
-    'accounts/Sedem Agbanyo/index.html'
+    'Sedem Agbanyo/index.html'
 ]
 
 var u21 = [
@@ -172,7 +172,7 @@ var u21 = [
     '+233 542762722',
     'nobleopare@gmail.com',
     '(0)=(0)',
-    'accounts/Noble Opare/index.html'
+    'Noble Opare/index.html'
 ]
 
 var u22 = [
@@ -180,7 +180,7 @@ var u22 = [
     '+233 547237782',
     'reinharddadzie@icloud.com',
     'Evidence890',
-    'accounts/Reinhard Dadzie/index.html'
+    'Reinhard Dadzie/index.html'
 ]
 
 var u23 = [
@@ -188,7 +188,7 @@ var u23 = [
     '+233 201444811',
     'f-email',
     '(Agyeman17i+)',
-    'accounts/Agyeman Kabenla/index.html'
+    'Agyeman Kabenla/index.html'
 ]
 
 var u24 = [
@@ -196,7 +196,7 @@ var u24 = [
     '+233 595072194',
     'cobbinahezekiel0@gmail.com',
     'abayaw012',
-    'accounts/Ezekiel Cobbinah/index.html'
+    'Ezekiel Cobbinah/index.html'
 ]
 
 var u25 = [
@@ -204,7 +204,7 @@ var u25 = [
     '+233 202269321',
     'desmondmensah137@icloud.com',
     'trending137',
-    'accounts/Desmond Mensah/index.html'
+    'Desmond Mensah/index.html'
 ]
 
 var u26 = [
@@ -212,7 +212,7 @@ var u26 = [
     '+233 5500013079',
     'f-email',
     '$Abena$',
-    'accounts/Graham Asare/index.html'
+    'Graham Asare/index.html'
 ]
 
 var u27 = [
@@ -220,7 +220,7 @@ var u27 = [
     '+233 554972654',
     'machayford0@gmail.com',
     'hayford@17',
-    'accounts/Mac Hayford/index.html'
+    'Mac Hayford/index.html'
 ]
 
 var u28 = [
@@ -228,7 +228,7 @@ var u28 = [
     '+233 279952365',
     'bryanbillb@gmail.com',
     '123456bill78910',
-    'accounts/Bryan Biney/index.html'
+    'Bryan Biney/index.html'
 ]
 
 var u29 = [
@@ -236,7 +236,7 @@ var u29 = [
     '+233 559934159',
     'f-email',
     'MemphisLeo7',
-    'accounts/Ahubley Leo/index.html'
+    'Ahubley Leo/index.html'
 ]
 
 var u30 = [
@@ -244,7 +244,7 @@ var u30 = [
     'f-phone',
     'knightmahama@gmail.com',
     'PW=KnightWalker47',
-    'accounts/Knight Mahama/index.html'
+    'Knight Mahama/index.html'
 ]
 
 var u31 = [
@@ -252,7 +252,7 @@ var u31 = [
     '+233 243552953',
     'naaodofolorkor@gmail.com',
     'grace',
-    'accounts/Naa Odofolorkor'
+    'Naa Odofolorkor'
 ]
 
 var controls = {
