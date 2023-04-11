@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
+body{
+    background: #323232;
+
 .side-nav{
     position: absolute;
     width: 30%;
